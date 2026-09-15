@@ -13,4 +13,4 @@
 - 在大型项目中，代码量巨大，如果要重新编译所有.c文件，会耗费很多时间，降低效率，占用电脑性能。而且因为通常修改的只是少部分文件，所以所有文件重新编译是不必要且没有意义的。所以使用增量编译更方便，也能提升效率
 
 运行结果：
-![](../images/check-result.jpg)
+<img width="1706" height="1279" alt="72b73635bdaa27df673f5df4a8276e20" src="https://github.com/user-attachments/assets/813fd440-41ee-4e16-9ae5-5806f3d62caf" />
